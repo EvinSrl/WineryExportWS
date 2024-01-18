@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WineryExportWS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Partitaiva" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CodiceAzienda" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CartellaFileExport" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SecondiIntervallo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="IndirizzoWS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:3998/Wswinery/Wswinery.asmx</Value>
+    </Setting>
+    <Setting Name="AbilitaEsportazione" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StringaConnessione" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Persist Security Info=False;User ID=admin;Initial Catalog=ContabileMiglianico;Data Source=EVINTEST\SQL2014
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

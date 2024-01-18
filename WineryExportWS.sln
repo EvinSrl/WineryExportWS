@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WineryExportWS", "WineryExportWS.csproj", "{BD4CEA85-4DE6-4EAC-8C3A-E2704AB3932D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4CEA85-4DE6-4EAC-8C3A-E2704AB3932D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4CEA85-4DE6-4EAC-8C3A-E2704AB3932D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4CEA85-4DE6-4EAC-8C3A-E2704AB3932D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4CEA85-4DE6-4EAC-8C3A-E2704AB3932D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AAF77F-5403-484E-A159-66BB058D9167}
+	EndGlobalSection
+EndGlobal
